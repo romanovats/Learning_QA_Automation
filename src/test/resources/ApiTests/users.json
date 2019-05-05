@@ -1,0 +1,9 @@
+{
+  "username": "test_user02",
+  "password": "p@ssw0rd",
+  "real_name": "test_user02",
+  "email": "test_user02@email.com",
+  "access_level": { "name": "updater" },
+  "enabled": true,
+  "protected": false
+}

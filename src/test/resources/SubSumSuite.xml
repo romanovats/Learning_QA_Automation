@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SubSumTestSuite">
+    <test name="SubSumTest">
+        <classes>
+            <class name="ru.levelup.tatiana.romanova.qa.homework_4.CalcSubTest"/>
+            <class name="ru.levelup.tatiana.romanova.qa.homework_4.CalcSumTest"/>
+        </classes>
+    </test>
+</suite>

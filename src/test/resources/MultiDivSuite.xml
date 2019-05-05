@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MultiDivTestSuite">
+    <test name="MultiDivTest">
+        <classes>
+            <class name="ru.levelup.tatiana.romanova.qa.homework_4.CalcMultiTest"/>
+            <class name="ru.levelup.tatiana.romanova.qa.homework_4.CalcDivTest"/>
+        </classes>
+    </test>
+</suite>

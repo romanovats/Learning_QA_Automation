@@ -1,0 +1,10 @@
+admin.username=admin
+admin.password=admin
+
+testUser.username=RTS7
+testUser.realname=RTS7-real-name
+testUser.email=email@email.com
+testUser.access_level=reporter
+testUser.password=123
+testUser.enabled=true;
+testUser.protected=false;

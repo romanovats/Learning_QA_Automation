@@ -1,0 +1,22 @@
+{
+  "summary": "Test issue with attachment",
+  "description": "Test API",
+  "project": {
+    "id": 313,
+    "name": "Test-Issue-02"
+  },
+  "category": {
+    "id": 5,
+    "name": "bugtracker"
+  },
+  "files": [
+    {
+      "name": "test.txt",
+      "content": "VGhpcyBpcyBhIFRFU1QuDQpUaGlzIGlzIGEgVEVTVC4NClRoaXMgaXMgYSBURVNULg0KVGhpcyBpcyBhIFRFU1QuDQpUaGlzIGlzIGEgVEVTVC4="
+    },
+    {
+      "name": "test2.txt",
+      "content": "VGhpcyBpcyBhIFRFU1QuDQpUaGlzIGlzIGEgVEVTVC4NClRoaXMgaXMgYSBURVNULg0KVGhpcyBpcyBhIFRFU1QuDQpUaGlzIGlzIGEgVEVTVC4="
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AllSuites">
+    <suite-files>
+        <suite-file path="MultiDivSuite.xml"/>
+        <suite-file path="SubSumSuite.xml"/>
+    </suite-files>
+</suite>
